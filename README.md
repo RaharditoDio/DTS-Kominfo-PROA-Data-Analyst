@@ -1,4 +1,4 @@
-## DQLab Data Analyst Career Track
+## DTS Kominfo x DQLab Data Analyst Career Track
 
 ### 📚 About
 [DQLab Data Analyst Career Track](https://academy.dqlab.id/main/track/67) is one of The Professional Academy Digital Talent Scholarship (DTS PRO) from the Ministry of Communication and Information of the Republic of Indonesia and DQLab which aims to improve the capabilities of skilled workers in the IT field that are in accordance with industry needs
